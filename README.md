@@ -11,7 +11,7 @@ A UWP App (sample) to display realtime values of MS Band Sensors.
 
 ## Problems / Bugs
 
-UV and HR sensor data parsing "mulfunction".
+UV and Pedometer sensor data parsing "mulfunction".
 
 
 ## Author / References
